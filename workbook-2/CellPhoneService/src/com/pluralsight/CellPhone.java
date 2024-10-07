@@ -8,6 +8,10 @@ public class CellPhone {
     private String owner;
     private String dial;
 
+    public CellPhone(){
+
+    }
+
 
     public CellPhone(double serialNumber, String model, String carrier, String phoneNumber, String owner, String dial) {
         this.serialNumber = serialNumber;
