@@ -1,11 +1,23 @@
-# java-development
+# JESUS LOPEZ VILLALON
+******************************
+lpvillalone@gmail.com
+
 <!-- -->
->welcome to my java development project
+I am a aspiring software developer with some experiance in Java. Proficient in
+both windows and linux systems.
+<!-- -->
+
+>HIGHLIGHTS
 <!--line that seperates -->
-This is just a test
+* experience with both Windows and Linux systems
+* Virtual Machine environments
+* Excel spreadsheets
+* powerpoint
+
 -----------------------------------------------------------------------------
+>WORK EXPERIENCE
 <!--Tables-->
-| Random | test | eval |
-|--------|:----------:|---------: |
-| proj1 | Proj2 | proj3|
-| proj1 | proj2 | proj3|
+| Company     |   Job Title    |                            Responsabilities |
+|-------------|:--------------:|--------------------------------------------:|
+| Art Of Construction |  Site Foreman  | Managing crew to ensure work is being done. |
+| SR Freeman  | Lead Carpenter |                             Read site plans |
