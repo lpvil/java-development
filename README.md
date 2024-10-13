@@ -1,6 +1,6 @@
 # JESUS LOPEZ VILLALON
 ******************************
-lpvillalone@gmail.com
+lp**********@gmail.com
 
 <!-- -->
 I am a aspiring software developer with some experiance in Java. Proficient in
@@ -17,7 +17,7 @@ both windows and linux systems.
 -----------------------------------------------------------------------------
 >WORK EXPERIENCE
 <!--Tables-->
-| Company     |   Job Title    |                            Responsabilities |
-|-------------|:--------------:|--------------------------------------------:|
-| Art Of Construction |  Site Foreman  | Managing crew to ensure work is being done. |
-| SR Freeman  | Lead Carpenter |                             Read site plans |
+| Company |   Job Title    |                            Responsabilities |
+|--|:--------------:|--------------------------------------------:|
+|  |  Site Foreman  | Managing crew to ensure work is being done. |
+|  | Lead Carpenter |                             Read site plans |
